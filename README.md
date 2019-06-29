@@ -1,1 +1,1 @@
-chat_app
+Basic Chat Application 
